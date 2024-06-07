@@ -66,7 +66,7 @@ If everything seems to be OK, i will make update ASAP and add your name here
 - [Online SVG editor](https://github.com/SVG-Edit/svgedit)
 - [ColorHunt] (http://colorhunt.co/c/40128)
 - [FreeSound] (http://www.freesound.org/)
-- [Unicode Table](https://unicode-table.com/en/)
+- [Unicode Table](https://symbl.cc/en/)
 - [Github Emoji](https://gist.github.com/rxaviers/7360908)
 
 ### concept
